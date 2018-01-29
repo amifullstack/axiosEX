@@ -9,6 +9,7 @@
   "author": "sanjayshr",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.17.1"
+    "axios": "^0.17.1",
+    "mongoose": "^5.0.2"
   }
 }
